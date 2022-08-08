@@ -1,0 +1,1 @@
+* [[{{name}}]] {{#if status}}({{status}}){{/if}} — rating: **{{rating}}**

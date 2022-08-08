@@ -1,6 +1,10 @@
 ```meta
 role: Engineer
 ```
+## Performance reviews
+<!-- #query page where name =~ /🧑 James\/Review/ select name render "template/page" -->
+* [[🧑 James/Reviews/2022-01]]
+<!-- /query -->
 
 ## Incoming
 <!-- #query task where name =~ /[[🧑 James]]/ render "template/task" -->
@@ -8,4 +12,4 @@ role: Engineer
 <!-- /query -->
 
 ## 2022-08-08
-* 
+
