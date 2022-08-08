@@ -1,0 +1,1 @@
+* [[{{name}}]] {{#if lastModified}}(last modified: {{niceDate lastModified}}){{/if}}
