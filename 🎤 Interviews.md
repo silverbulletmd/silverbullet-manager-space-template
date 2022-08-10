@@ -1,4 +1,4 @@
-Run {[Template: Instantiate Page]} and select “Interview”
+Run {[Template: Instantiate Page]} and select “Interview” to add a new candidate.
 
 ## Tasks
 <!-- #query task where page =~ /🎤/ and done = false render "template/task" -->

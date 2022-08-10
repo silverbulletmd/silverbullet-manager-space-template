@@ -1,4 +1,4 @@
-
+[[🧑 1-1s]]
 <!-- #use [[template/1-1-section]] -->
 ## Performance reviews
 * [[🧑 John/Reviews/2022-01]]
@@ -7,7 +7,6 @@
 
 <!-- /use -->
 
-
 ## 2022-08-09
 * Introduction meeting
-* [ ] Setup call with [[🧑 Mary]]
+* [ ] Setup intro call with [[🧑 Mary]]
