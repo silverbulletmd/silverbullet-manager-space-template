@@ -18,6 +18,7 @@ Created via {[Open Daily Note]}
 
 ## Recently updated
 <!-- #query page where name != "index" order by lastModified desc limit 10 render [[template/page]] -->
+* [[README]] (last modified: 2022-08-10)
 * [[🧑 1-1s]] (last modified: 2022-08-10)
 * [[template/page/1-1]] (last modified: 2022-08-10)
 * [[🧑 Mary]] (last modified: 2022-08-10)
@@ -27,6 +28,5 @@ Created via {[Open Daily Note]}
 * [[template/tagged-tasks]] (last modified: 2022-08-09)
 * [[🎤 Interviews]] (last modified: 2022-08-09)
 * [[🎤 Fred]] (last modified: 2022-08-09)
-* [[🕰️ Performance Reviews]] (last modified: 2022-08-09)
 <!-- /query -->
 
