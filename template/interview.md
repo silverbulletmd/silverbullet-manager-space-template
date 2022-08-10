@@ -1,0 +1,1 @@
+* [[{{name}}]] ({{role}}) {{#if recommendation}}Recommendation: **{{recommendation}}**{{/if}}

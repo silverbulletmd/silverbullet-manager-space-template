@@ -1,10 +1,14 @@
 ```meta
-PAGENAME: "🧑 /Reviews/2022-"
+$name: 🧑 /Reviews/2022-
 status: To Do
 rating: TBD
 ```
+[[🕰️ Performance Reviews]]
 
-# Review
+## Tasks
+* [ ] Collect peer feedback
+* [ ] Write performance review
+* [ ] Deliver performance review
 
 ## Strengths
 
