@@ -1,6 +1,6 @@
-```meta
+---
 $disableDirectives: true
-```
+---
 
 ## Performance reviews
 <!-- #query page where name =~ /{{page}}\/Review/ select name render [[template/page]] -->
