@@ -5,7 +5,7 @@
 ## Next actions
 Tasks tagged with #next. Tasks are used for various purposes, so to collect tasks to act on _next_, it’s useful to use a hashtag (like #next) for filtering.
 
-<!-- #use [[template/tagged-tasks]] "#next" -->
+<!-- #use [[template/tagged-tasks]] "next" -->
 * [ ] [[📅 2022-08-08@69]] Clean Downloads folder  #next
 <!-- /use -->
 
