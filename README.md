@@ -14,6 +14,4 @@ From your fork, clone the repo, e.g.
 
     git clone git@github.com:youruser/manager-notes.git
 
-Then, launch SilverBullet from there:
-
-    npx @silverbulletmd/server manager-notes
+Then, launch SilverBullet from there following the instructions on [the website](https://silverbullet.md).
